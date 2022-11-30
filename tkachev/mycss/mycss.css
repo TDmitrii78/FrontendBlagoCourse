@@ -1,7 +1,12 @@
 .fon1 {
     background-image: url("heroimage.png");
+<<<<<<< HEAD
     height: 800px;
     width: 1440px;
+=======
+    width: 1440px;
+    height: 800px;
+>>>>>>> 289244a86aef90b5a0bf93d7280ce242f848db83
 }
 .im1Fon1 {
     position: absolute;
@@ -20,6 +25,7 @@
 .Ob1Fon1 {
     position: absolute;
     height: 64px;
+<<<<<<< HEAD
     width: 852px;
     left: 470px;
     top: 55px;
@@ -28,6 +34,12 @@
     display: inline;
     margin-left: 23px;
 }
+=======
+    width: 742px;
+    left: 533px;
+    top: 55px;
+}
+>>>>>>> 289244a86aef90b5a0bf93d7280ce242f848db83
 .Ob2Fon1 {
     position: absolute;
     height: 179px;
@@ -35,6 +47,14 @@
     left: 175px;
     top: 322px;
 }
+<<<<<<< HEAD
+=======
+.Spis1Fon1 {
+    font-size: 14px;
+    color: white;
+    display: inline;
+}
+>>>>>>> 289244a86aef90b5a0bf93d7280ce242f848db83
 .im3Fon1 {
     display: block;
     position: absolute;
@@ -76,6 +96,7 @@
     left: 356px;
     top: 522px;
     background-color: #FF7400;
+<<<<<<< HEAD
 }
 .im8Fon1 {
     margin-bottom: 20px;
@@ -431,3 +452,6 @@
     height: 732px;
 }
      
+=======
+}
+>>>>>>> 289244a86aef90b5a0bf93d7280ce242f848db83
